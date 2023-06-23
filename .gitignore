@@ -26,9 +26,13 @@ hw4/108020031_report.docx
 hw4/108020031_report.pdf
 hw4/108020031_result.mp4
 hw4/hw4.pptx
-hw5
-hw5_sample_code
 hw4/HFL
+hw5/__pycache__
+hw5/core
+hw5/data
+hw5/saved-models
+hw5/Data Science HW5.pptx
+hw5/target_nodes_list.txt
 
 
 
